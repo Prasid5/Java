@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.EmptyStackException;
+//Updated by Pravin Gyawali
 public class Stack {
     private ArrayList<Integer> stack;//references object
     private int capacity;
