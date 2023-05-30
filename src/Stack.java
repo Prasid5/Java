@@ -71,7 +71,7 @@ public class Stack {
         System.out.println("Stack elements:");
         stack.printStack();
         System.out.println("Check Status Stack full"+stack.isEmpty());
-        
+        System.out.println("123");
         
     }
 }
